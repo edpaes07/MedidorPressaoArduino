@@ -20,3 +20,7 @@ Ao invés de necessitar do pressionamento físico de um botão antes de um uploa
 EDMILSON BISPO PAES DOS SANTOS - 10919010291\
 JONI WELTER RAMOS - 10919005636\
 Professor: WILIAN FRANCA COSTA.
+
+
+<b>Funcionamento:</b>
+
