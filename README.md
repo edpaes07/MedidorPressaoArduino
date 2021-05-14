@@ -1,5 +1,5 @@
-# MedidorPressaoArduino
-Medidor de Pressão Arterial Digital
+# Medidor de Pressão Arterial Digital
+
 
 O nosso projeto consiste em realizar leituras em um transdutor como sensor de pressão, detectar seus pulsos fazendo a transdução do sinal de pressão para uma tensão analógica, e posteriormente digitalizá-los por meio de um conversor analógico-digital (ADC).
 Também estaremos alterando o medidor de pressão original (Esfigmomanômetro), substituindo a Pêra Valvulada por uma bomba de pressão de ar e uma válvula eletrônica.
@@ -16,7 +16,9 @@ Módulo Ethernet ENC28J60 para conexão com a Internet
 
 
 OBJETOS INTELIGENTES CONECTADOS {TURMA 05A} 2021/1
+
 EDMILSON BISPO PAES DOS SANTOS - 10919010291
+
 JONI WELTER RAMOS - 10919005636
 
 Professor: WILIAN FRANCA COSTA.
